@@ -1,0 +1,5 @@
+Install Xampp Server For MyQSL Data Base
+pip install tkinter and pip install pymysql
+Go To Phpmyadmin and Import bookme.sql file
+Open BookMe_App.py File in Code Editor to Run as an End User
+Open admin.py File in Code Editor to Run as an Admin
